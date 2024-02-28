@@ -25,7 +25,9 @@ const styles = StyleSheet.create({
     top: "45%",
   },
   body: {
-    backgroundColor: "#fff",
+    backgroundColor: "gold",
+    fontWeight: "bold",
+    alignItems: "center",
   },
 });
 
